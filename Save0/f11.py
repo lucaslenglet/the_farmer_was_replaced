@@ -1,0 +1,1 @@
+trade(Items.Carrot_Seed, 1000)

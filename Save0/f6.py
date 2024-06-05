@@ -1,0 +1,1 @@
+trade(Items.Fertilizer, 1000)

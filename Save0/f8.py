@@ -1,0 +1,1 @@
+trade(Items.Pumpkin_Seed, 1000)
